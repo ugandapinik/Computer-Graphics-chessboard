@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1385316876 source:c:\users\wohhie\onedrive\public\opengl\chessboard\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1432723881 source:c:\users\wohhie\onedrive\public\opengl\chessboard\untitled1.c
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1433926187 source:c:\users\wohhie\onedrive\public\opengl\chessboard\chessboard.c
+	<stdio.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
